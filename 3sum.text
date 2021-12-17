@@ -1,0 +1,5 @@
+:- we sort our list
+:- then we select first number of our list as num1 and put num2 num3 as pointers in 2nd and last index
+:- [1,2,3,4,5] here num1 = 1 and num2 = 3 and num3 = 5 initially
+:- if sum less then zero num1 ko right shift kro if greater then zero toh num3 ko left shift kro and equal to zero toh add this triplet and move any one of them
+:- to safe ourselves from [1,0,-1],[1,0,-1] such similar triplets escape same number (see code how to do so -- line 9,10 and 22,23)
