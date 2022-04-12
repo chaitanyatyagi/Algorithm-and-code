@@ -17,3 +17,6 @@ __|__2__1__0__
 5 |  1  0  1        --> "ac"
 6 |  1  1  0        --> "bc"
 7 |  1  1  1        --> "abc"
+
+Time Complexity :-   2^n * no
+Space Complexity :- 1
