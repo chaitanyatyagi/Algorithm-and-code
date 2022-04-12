@@ -1,0 +1,6 @@
+Find no of subsequences of a given array
+1) Recursive Approach
+
+Time Complexity :-  2*2*2........upto n times  2^n
+
+2) Power Set Method
