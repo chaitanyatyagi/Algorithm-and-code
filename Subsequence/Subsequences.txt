@@ -4,3 +4,16 @@ Find no of subsequences of a given array
 Time Complexity :-  2*2*2........upto n times  2^n
 
 2) Power Set Method
+
+S = "abc"
+     (012)
+
+__|__2__1__0__
+0 |  0  0  0        --> ""
+1 |  0  0  1        --> "a"
+2 |  0  1  0        --> "b"
+3 |  0  1  1        --> "ab"
+4 |  1  0  0        --> "c"
+5 |  1  0  1        --> "ac"
+6 |  1  1  0        --> "bc"
+7 |  1  1  1        --> "abc"
