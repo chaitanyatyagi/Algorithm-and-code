@@ -1,0 +1,3 @@
+We are required to print all the permutations of a given array.
+Time Complexity --> n! * n
+Recursive Approach
